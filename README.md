@@ -1,4 +1,4 @@
-# qwen1.5-exporter
+# qwen1.5-convertor
 export qwen1.5 to onnx or tflite
 
 ## Convert-Or-Download
