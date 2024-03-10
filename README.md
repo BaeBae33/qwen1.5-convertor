@@ -1,5 +1,5 @@
 # qwen1.5-convertor
-export qwen1.5 to onnx or tflite
+convert qwen1.5 to onnx or tflite
 
 ## Convert-Or-Download
 You can convert model or download from huggingface directly
